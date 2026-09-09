@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="banner.png" alt="Syed Ayan" width="100%" />
+
+<br/>
+
 # Syed Ayan
 
 **Full Stack Developer** &middot; **Web3 Engineer** &middot; **DevOps Enthusiast**
@@ -83,29 +87,12 @@ My approach is hands-on and project-driven — shipping real-world applications 
 
 ## Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/SyedAynan/Smart-Parking-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SyedAynan&repo=Smart-Parking-Management-System&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Smart Parking System"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/SyedAynan/Nexus-Bank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SyedAynan&repo=Nexus-Bank&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Nexus Bank"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/SyedAynan/Neural-Feedback">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SyedAynan&repo=Neural-Feedback&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Neural Feedback"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-    </td>
-  </tr>
-</table>
+- 🚗 **[Smart Parking Management System](https://github.com/SyedAynan/Smart-Parking-Management-System)**
+  A robust application for managing smart parking facilities.
+- 🏦 **[Nexus Bank](https://github.com/SyedAynan/Nexus-Bank)**
+  A modern banking platform implementation.
+- 🧠 **[Neural Feedback](https://github.com/SyedAynan/Neural-Feedback)**
+  An application for processing and visualizing neural feedback.
 
 <br/>
 
