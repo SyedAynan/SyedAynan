@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="banner.png" alt="Syed Ayan" width="100%" />
+# Syed Ayan
 
-<br/>
 
 **Full Stack Developer** &middot; **Web3 Engineer** &middot; **DevOps Enthusiast**
 
