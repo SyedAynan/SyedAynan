@@ -99,11 +99,6 @@ My approach is hands-on and project-driven — shipping real-world applications 
 ## Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedAynan&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="150" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAynan&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" height="150" alt="Languages"/>
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyedAynan/SyedAynan/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyedAynan/SyedAynan/output/github-snake.svg" />
