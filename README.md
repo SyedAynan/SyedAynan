@@ -4,7 +4,7 @@
 
 **Full Stack Developer** &middot; **Web3 Engineer** &middot; **DevOps Enthusiast**
 
-<sub>100xDevs Cohort 3.0 &nbsp;·&nbsp; Building production-grade applications</sub>
+<sub>Building production-grade applications</sub>
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ## About
 
-Full Stack and Web3 Developer trained under **Harkirat Singh's 100xDevs Cohort 3.0**. I build production-grade web applications, decentralized platforms, and scalable backend systems using the MERN stack, Next.js, and Web3 technologies.
+I am a Full Stack and Web3 Developer, building production-grade web applications, decentralized platforms, and scalable backend systems using the MERN stack, Next.js, and Web3 technologies.
 
 My approach is hands-on and project-driven — shipping real-world applications from architecture to deployment.
 
@@ -31,7 +31,7 @@ My approach is hands-on and project-driven — shipping real-world applications 
 
 ## Tech Stack
 
-> Technologies learned and applied through Cohort 3.0 and personal projects
+> Technologies used in personal projects and professional development
 
 **Languages**<br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-24292f?style=flat-square&logo=javascript&logoColor=F7DF1E)
