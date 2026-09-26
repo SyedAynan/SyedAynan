@@ -6,7 +6,7 @@
 
 # Syed Ayan
 
-**Full Stack Developer** &middot; **Web3 Engineer** &middot; **DevOps Enthusiast**
+**Full Stack Developer** &middot; **Web3 Enthusiast** &middot; **DevOps Enthusiast**
 
 <sub>Building production-grade applications</sub>
 
