@@ -87,12 +87,14 @@ My approach is hands-on and project-driven — shipping real-world applications 
 
 ## Projects
 
-- 🚗 **[Smart Parking Management System](https://github.com/SyedAynan/Smart-Parking-Management-System)**
-  A robust application for managing smart parking facilities.
+- 🏥 **[Patient Monitoring Mesh](https://github.com/SyedAynan/Patient-monitoring-mesh)**
+  Resilient edge-intelligence patient monitoring — ESP32-style sensor mesh, FastAPI + SQLite backend, React dashboard, HMAC device auth, recorded evaluation campaign. 249 tests green.
 - 🏦 **[Nexus Bank](https://github.com/SyedAynan/Nexus-Bank)**
-  A modern banking platform implementation.
-- 🧠 **[Neural Feedback](https://github.com/SyedAynan/Neural-Feedback)**
-  An application for processing and visualizing neural feedback.
+  Enterprise digital banking platform — FastAPI + React, JWT + MFA, fraud/AML intelligence, analytics engine.
+- 🎓 **[Neural Feedback (FacultyLens)](https://github.com/SyedAynan/Neural-Feedback)**
+  Anonymous student-to-faculty feedback portal — PHP + MySQL, role-based access, ratings dashboard.
+- 🚗 **[Smart Parking Management System](https://github.com/SyedAynan/Smart-Parking-Management-System)**
+  Planned smart-parking prototype — slot tracking, reservations, payments. Roadmap in repo.
 
 <br/>
 
