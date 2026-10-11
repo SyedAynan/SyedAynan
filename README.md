@@ -210,6 +210,21 @@ I'm always keen to connect with fellow students, developers, researchers, and me
 
 ---
 
+## ⚖️ Copyright, Attribution & Academic Integrity
+
+**Copyright (c) 2026 Syed Ayan. All rights reserved.**
+
+> ### 🎓 Notice Regarding Academic Submissions & Plagiarism
+> This repository and profile represent original research, implementation, and portfolio work created by **Syed Ayan**.
+>
+> - **Portfolio & Evaluation Use:** This profile and associated documentation are publicly available for technical review, peer exploration, and prospective evaluation.
+> - **Prohibition of Plagiarized Academic Submission:** Unauthorized duplication, reproduction, or submission of original project architectures, text, or implementations as academic coursework or institutional degree submissions is strictly prohibited.
+> - **Third-Party Rights:** All third-party marks, badges, and open-source dependencies remain subject to their respective licenses and terms.
+
+<br/>
+
+---
+
 <div align="center">
   <sub>Crafted with curiosity by <b>Syed Ayan</b> &middot; CS (Data Science) Student &middot; Always Learning & Building</sub>
 </div>
