@@ -14,7 +14,7 @@
 
 [![Followers](https://img.shields.io/github/followers/SyedAynan?style=flat-square&color=238636&labelColor=161b22&logo=github&label=Followers)](https://github.com/SyedAynan?tab=followers)
 [![Stars](https://img.shields.io/github/stars/SyedAynan?style=flat-square&color=238636&labelColor=161b22&logo=github&label=Total%20Stars)](https://github.com/SyedAynan?tab=repositories&sort=stargazers)
-[![Profile Views](https://komarev.com/ghpvc/?username=SyedAynan&style=flat-square&color=238636&labelColor=161b22&label=Profile%20Views)](https://github.com/SyedAynan)
+[![Profile Views](https://hits.sh/github.com/SyedAynan.svg?style=flat-square&label=Profile%20Views&color=238636&labelColor=161b22)](https://github.com/SyedAynan)
 [![Vercel Portfolio](https://img.shields.io/badge/Vercel-elight1-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/elight1)
 [![Email Contact](https://img.shields.io/badge/Email-Syedsyedayan33%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white&color=161b22&labelColor=238636)](mailto:Syedsyedayan33@gmail.com)
 
